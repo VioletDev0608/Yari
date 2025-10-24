@@ -6,3 +6,14 @@
   ==================================================================
 -->
 
+## 10/24/2025 - Ergogen Basics  
+
+First journal!!
+Thank you all at hack club for hosting such thing as blueprint for teens to get a chance to build what they always dreamed of.
+
+I read through the ergogen documentation, trying to follow step by step what they were doing and watched Ben Vallack's tutorial on how to operate it.
+Watched the presentation by the creator of ergogen to get a grasp on what the software was originally made for doing. After that, since I had thought I wanted to make an ergonomic keyboard that felt like a laptop so I did some research if I could hand solder those switches. I saw some users on reddit saying it would be quite difficult without an oven so I decided to compromise and use normal choc low profile switches for this build. Played around with the Absolem template because it was the simplest one I could find that used a lot of ergogen's features. 
+
+I was able to understand the basics of ergogen in this session.
+![スクリーンショット 2025-10-24 175101.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA1MywicHVyIjoiYmxvYl9pZCJ9fQ==--74159b933328728b279bcf5738bd9acd302496b6/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-10-24%20175101.png)  
+
