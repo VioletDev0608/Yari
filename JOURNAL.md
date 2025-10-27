@@ -17,3 +17,34 @@ Watched the presentation by the creator of ergogen to get a grasp on what the so
 I was able to understand the basics of ergogen in this session.
 ![スクリーンショット 2025-10-24 175101.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA1MywicHVyIjoiYmxvYl9pZCJ9fQ==--74159b933328728b279bcf5738bd9acd302496b6/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-10-24%20175101.png)  
 
+## 10/28/2025 - Completed Key Layout  
+
+Followed flatfootfox's tutorial on how to get about designing what you want. It was one of the most intuitive and easily understandable tutorials I've followed.
+I knew what I kind of wanted design wise:
+	**PCB**:
+		USB-C compatible
+		36 keys
+		3 key thumb cluster
+		Low profile(choc spaced)
+		Reversible PCB for lower cost
+		Columns staggered
+		Ortholinear
+		Wireless
+		(Diode-less) Optional but preferred for ease of building and cheaper costs
+		Angled pinky and ring finger columns
+	**Case**:
+		An option to go caseless
+		Magsafe tenting compatibility
+		(Tenting puck compatibility) Probably wont work on it unless magsafe ends up not working	
+The idea of having a keyboard custom tailored to my hands always seemed appealing to me. So I adjusted the stagger and drew it on a paper to see how it would feel to type on it.(My notebook was a 6mm grid so it worked flawlessly for this project). Had some trouble understanding how the splay thing worked but asked some nice fellas in the Absolem Discord server simplified it for me so it was easier for me to understand. 
+For future reference:
+	`spread`: horizontal padding
+	`splay`: rotation
+	`stagger`: vertical movement
+	`origin` controls: the point where to start
+Excited since it's starting to take properly take shape!!!
+![スクリーンショット 2025-10-28 002912](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--63a0981cac614329721928501fa1688c292cdefc/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-10-28%20002912.png)
+
+
+  
+
