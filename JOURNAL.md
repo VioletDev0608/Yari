@@ -52,7 +52,7 @@ Excited since it's starting to take properly take shape!!!
 
 ![スクリーンショット 2025-10-28 212738](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--698ad974aa1400293dd11fd7c8a4682260f00a63/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-10-28%20212738.png)
 
-Looking back, it probably would've been faster if I made it based on the `raw.dxf,` an outline generated based on the position of the switches but I made a completely new outline called `board.dxf` and manually set all the points in the code which took some time but on the flip side, I think it turned out very clean. Haven't got to the point where you do the electronics so I'm still not sure if I need to adjust the outlines so that there's space to place the mcu on. Considered placing it on the dead space below the staggered keys but I figured it would get in the way.
+Looking back, it probably would've been faster if I made it based on the `raw.dxf`, an outline generated based on the position of the switches but I made a completely new outline called `board.dxf` and manually set all the points in the code which took some time but on the flip side, I think it turned out very clean. Haven't got to the point where you do the electronics so I'm still not sure if I need to adjust the outlines so that there's space to place the mcu on. Considered placing it on the dead space below the staggered keys but I figured it would get in the way.
 
 On flatfootfox's tutorial, it was mentioned that there were two duplex matrix's so I read the article linked on there.  
 
