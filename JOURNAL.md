@@ -32,6 +32,7 @@ I knew what I kind of wanted design wise:
 		Wireless
 		(Diode-less) Optional but preferred for ease of building and cheaper costs
 		Angled pinky and ring finger columns
+		(Hotswap capabilities)
 	**Case**:
 		An option to go caseless
 		Magsafe tenting compatibility
