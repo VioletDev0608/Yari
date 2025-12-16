@@ -15,11 +15,15 @@ It has 2 LEDS to indicate battery levels, splayed pinky and row columns, and is 
 
 The assembly itself is quite simple
 Use a soldering iron to heat up the threaded screw inserts and help it melt its way into the slightly undersized standoff holes. Secure the PCB using the M2 screws. 
+<img width="523" height="438" alt="スクリーンショット 2025-11-27 002014" src="https://github.com/user-attachments/assets/e89d95b6-3443-4c6b-a5ac-4f6749703f23" />
+<img width="1017" height="952" alt="cad" src="https://github.com/user-attachments/assets/fec95612-dd6b-4f76-92af-31ff21360a05" />
 
 ## PCB
 
 Most of the PCB was created using ergogen so I don't have a silkscreen to show!
 There are quotes scattered around the PCB so make sure to enjoy them.
+<img width="1227" height="843" alt="スクリーンショット 2025-11-23 235945" src="https://github.com/user-attachments/assets/35e2a5b3-6bbd-42ff-9691-34a4fa548881" />
+<img width="1104" height="812" alt="pcb" src="https://github.com/user-attachments/assets/6ff2ea3e-0590-4769-9346-86cb7b52ef50" />
 
 ## Firmware
 
