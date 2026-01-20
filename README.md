@@ -16,7 +16,8 @@ It has 2 LEDS to indicate battery levels, splayed pinky and row columns, and is 
 The assembly itself is quite simple
 Use a soldering iron to heat up the threaded screw inserts and help it melt its way into the slightly undersized standoff holes. Secure the PCB using the M2 screws. 
 <img width="523" height="438" alt="スクリーンショット 2025-11-27 002014" src="https://github.com/user-attachments/assets/e89d95b6-3443-4c6b-a5ac-4f6749703f23" />
-<img width="1017" height="952" alt="cad" src="https://github.com/user-attachments/assets/fec95612-dd6b-4f76-92af-31ff21360a05" />
+<img width="1156" height="744" alt="スクリーンショット 2026-01-14 163927" src="https://github.com/user-attachments/assets/0913e862-746d-47d1-8dd4-c45baa73b8b8" />
+
 
 ## PCB
 
