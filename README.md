@@ -1,5 +1,5 @@
 # Yari
-Yari is a 38 key columns-staggered choc split keyboard. It is designed to reduce the required thumb movement beneath the palm.
+Yari is a 36-key column-staggered choc split keyboard. It is designed to reduce the required thumb movement beneath the palm.
 It has 2 LEDS to indicate battery levels, splayed pinky and row columns, and is meant to be used with a Supermini nRF52840 microcontroller.
 
 ## Features:
