@@ -1,30 +1,34 @@
 # Yari
 Yari is a 36-key column-staggered choc split keyboard. It is designed to reduce the required thumb movement beneath the palm.
-It has 2 LEDS to indicate battery levels, splayed pinky and row columns, and is meant to be used with a Supermini nRF52840 microcontroller.
+It has 1 LED to indicate battery levels, splayed pinky and row columns, and is meant to be used with two Supermini nRF52840 microcontrollers. It features an EC11 rotary encoder and extra key on the left half that can be used to switch layers, etc.
 
 ## Features:
-- 36 Keys
+- 37 Keys
 - Column staggered
 - Choc v1
 - Splayed pinky and row columns
-- 2 LEDS for battery indication
+- 1 LED for battery indication
 - ZMK support
 - Wireless
+- EC11 Rotary Encoder
 
 ## CAD Model:
 
+The case is a open style with no walls surrounding the switches and just a simple tray to mount the keyboard to and prevent dust from getting into the assembly.
 The assembly itself is quite simple
 Use a soldering iron to heat up the threaded screw inserts and help it melt its way into the slightly undersized standoff holes. Secure the PCB using the M2 screws. 
-<img width="523" height="438" alt="スクリーンショット 2025-11-27 002014" src="https://github.com/user-attachments/assets/e89d95b6-3443-4c6b-a5ac-4f6749703f23" />
-<img width="1156" height="744" alt="スクリーンショット 2026-01-14 163927" src="https://github.com/user-attachments/assets/0913e862-746d-47d1-8dd4-c45baa73b8b8" />
+<img width="1352" height="615" alt="image9" src="https://github.com/user-attachments/assets/50d09d93-24dc-40ef-be9a-c5b1cba9f9ee" />
+<img width="1240" height="553" alt="image10" src="https://github.com/user-attachments/assets/a36703ec-2491-465e-be91-0a1009216488" />
 
 
 ## PCB
 
-Most of the PCB was created using ergogen so I don't have a silkscreen to show!
-There are quotes scattered around the PCB so make sure to enjoy them.
-<img width="1227" height="843" alt="スクリーンショット 2025-11-23 235945" src="https://github.com/user-attachments/assets/35e2a5b3-6bbd-42ff-9691-34a4fa548881" />
-<img width="1104" height="812" alt="pcb" src="https://github.com/user-attachments/assets/6ff2ea3e-0590-4769-9346-86cb7b52ef50" />
+PCB was made entirely in Kicad and rotated to minimize the costs when fabricating the PCB. 
+There are some quotes on the palm so check it out!
+<img width="752" height="357" alt="image1" src="https://github.com/user-attachments/assets/88d470f0-2166-4455-b308-e88c6105f014" />
+<img width="994" height="499" alt="image2" src="https://github.com/user-attachments/assets/8d20e531-8b61-4925-9377-be37d66ef8c8" />
+<img width="767" height="603" alt="image3" src="https://github.com/user-attachments/assets/77e4e5d3-6ae2-4c5d-b5c6-b6ded4bc2c85" />
+<img width="823" height="523" alt="image4" src="https://github.com/user-attachments/assets/61f2dc8d-c716-4fde-8d5f-c7e26e632261" />
 
 ## Firmware
 
@@ -32,23 +36,6 @@ Firmware is based on ZMK!
 Hasn't been tested yet...
 
 ## BOM
-Here is everything you need to build the Yari.
 
-- 2x Yari PCB
-- 2x Supermini nRF52840
-- 36x Choc v1 switches
-- 36x 1N4148W Diodes (SMD diodes in the SOD123 package)
-- 36x 1u Choc keycaps (MBK,LDSA,CFA etc)
-- 2x Reset Button (Panasonic EVQ-PU[A|C|J|L]02K)
-- 2x Power Switch (SSSS811101)
-- 1x USB-C cable for charging
-- 2x Lipo Battery (301230)
-- 4x LED (SK6812mini-e)
-- 36x Choc switch sockets(Kalih)
-- Rubber feet
-
-3D printed case parts(Optional)
-
-- 2x 3D printed case (Right and Left)
-- 10x Threaded screw inserts (M2x3x3.2)
-- 10x M2 laptop-style flathead screws(M2x3)
+Check [BOM.csv](https://github.com/VioletDev0608/Yari/blob/main/BOM/BOM%20-%20Yari.csv) for all parts needed to build this keyboard!
+It comes out to about 98 dollars using aliexpress and JLCPCB to fabricate the PCB!
