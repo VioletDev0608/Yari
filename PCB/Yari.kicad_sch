@@ -1,0 +1,100 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7f8cce25-a430-4528-9bd6-30406f8ee2a0")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 35.56 33.02)
+		(size 48.26 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "469dcd74-68e1-4323-bce4-254d7c92065c")
+		(property "Sheetname" "Yari_left"
+			(at 35.56 32.3084 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Yari_left.kicad_sch"
+			(at 35.56 78.0546 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Yari"
+				(path "/7f8cce25-a430-4528-9bd6-30406f8ee2a0"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 36.83)
+		(size 63.5 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "51000fa3-50e9-4ee4-aa73-40c89dc25846")
+		(property "Sheetname" "Yari_right"
+			(at 107.95 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Yari_right.kicad_sch"
+			(at 107.95 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Yari"
+				(path "/7f8cce25-a430-4528-9bd6-30406f8ee2a0"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
