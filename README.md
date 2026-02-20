@@ -20,6 +20,9 @@ Use a soldering iron to heat up the threaded screw inserts and help it melt its 
 <img width="1352" height="615" alt="image9" src="https://github.com/user-attachments/assets/50d09d93-24dc-40ef-be9a-c5b1cba9f9ee" />
 <img width="1240" height="553" alt="image10" src="https://github.com/user-attachments/assets/a36703ec-2491-465e-be91-0a1009216488" />
 
+Added a version of the case with proper walls and holes at the MCU and power buttons.
+<img width="1630" height="680" alt="image16" src="https://github.com/user-attachments/assets/14c5251d-c164-4941-9f90-2dc530331173" />
+
 
 ## PCB
 
